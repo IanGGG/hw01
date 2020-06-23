@@ -5,8 +5,8 @@ My name is **Xuefei Gao** and you can just call me **Ian**, which is easier to p
 
 Here are some of my interests:
 1. Music
-  *Rock
-  *Classical
+  * Rock
+  * Classical
 2. Basketball
 3. Sneakers
 
